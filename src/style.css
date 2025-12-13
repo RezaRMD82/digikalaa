@@ -21,6 +21,7 @@
   --color-gray-brand-border: #e0e0e2;
   --color-gray-brand: #f0f0f1;
   --color-gray-brand-txt: #424750;
+  --color-gray-border-footer: #e0e0e2;
   
 
 }
@@ -95,7 +96,7 @@
   -webkit-text-fill-color: transparent;
 }
 #red-slider-bar{
-      background: linear-gradient(225deg, rgb(210, 44, 78) 0%, rgb(238, 56, 78) 100%);
+      background: linear-gradient(225deg,#d22c4e,#ee384e 41.68%,#ef5662);
 }
 
 #red-slider-bar::-webkit-scrollbar {
