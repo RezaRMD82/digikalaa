@@ -1,8 +1,12 @@
 {
   "rewrites": [
     {
-      "source": "/mahsolat/mahsolat.html",
-      "destination": "/mahsolat/mahsolat.html"
+      "source": "/mahsolat-page",
+      "destination": "/mahsool1.html"
+    },
+    {
+      "source": "/mahsool1.html",
+      "destination": "/mahsool1.html"
     },
     {
       "source": "/(.*)",
