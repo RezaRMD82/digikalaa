@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/mahsolat/mahsolat.html",
+      "destination": "/mahsolat/mahsolat.html"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
